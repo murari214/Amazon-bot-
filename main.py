@@ -30,7 +30,7 @@ log = logging.getLogger("giftcredit_bot")
 #                   CONFIG
 # ════════════════════════════════════════════════
 
-BOT_TOKEN = os.getenv("BOT_TOKEN", "8816319709:AAFov-LJQlGJ5VtmsgwjkZ9fkVGL9Dsyn6U")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "8816319709:AAH6b9ZZZ-jrP1NwVlnrRFncwm97m2LM5jY")
 BOT_USERNAME = os.getenv("BOT_USERNAME", "amzoncards_bot")  # without @
 
 ADMIN_IDS = [
